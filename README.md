@@ -1,13 +1,13 @@
 # CABGO
-# 🚕 Cab Driving App
+# Cab Driving App
 
-## 📌 Project Overview
+## Project Overview
 
 The **Cab Driving App** is a cab booking application designed to help users book rides easily and view their ride details. Users can enter pickup and drop locations, choose a cab type, view estimated fares, check driver details, and view payment and ride history.
 
 This project is developed in two development increments (Sprint 1 and Sprint 2).
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Provide a simple and user-friendly cab booking interface.
 - Allow users to select pickup and drop locations.
@@ -15,7 +15,7 @@ This project is developed in two development increments (Sprint 1 and Sprint 2).
 - Show driver and ride details.
 - Provide payment options and ride history.
 
-## ✨ Features
+## Features
 
 ### Sprint 1 – User Interface and Cab Booking
 
@@ -37,7 +37,7 @@ This project is developed in two development increments (Sprint 1 and Sprint 2).
 - Payment page (UPI and Cash)
 - Ride history
 
-## 🖥️ Wireframes
+## Wireframes
 
 The application contains four wireframe pages created using **diagrams.net (draw.io)**:
 
@@ -48,7 +48,7 @@ The application contains four wireframe pages created using **diagrams.net (draw
 
 Wireframe file: `Cab-Driving-Wireframes.drawio`
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Wireframing:** diagrams.net (draw.io)
 - **Version Control:** Git
@@ -56,14 +56,14 @@ Wireframe file: `Cab-Driving-Wireframes.drawio`
 
 *The technologies above describe the current project planning and wireframing work. Additional development technologies can be listed when implemented.*
 
-## 📅 Development Plan
+## Development Plan
 
 | Development Increment | Planned Work |
 |---|---|
 | Sprint 1 | Login, registration, home page, and cab booking interface |
 | Sprint 2 | Driver details, ride status, payment, and ride history |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -81,7 +81,7 @@ Open the cloned project folder in Visual Studio Code.
 
 Open `Cab-Driving-Wireframes.drawio` using [diagrams.net](https://app.diagrams.net/).
 
-## 🔄 Git Workflow
+## Git Workflow
 
 Check repository status:
 
@@ -109,14 +109,14 @@ git push origin main
 
 Use your actual branch name if it is not `main`.
 
-## 🧪 Testing and Review
+## Testing and Review
 
 - Review all four wireframe pages.
 - Verify that each planned screen contains the required elements.
 - Review repository changes using `git diff` and `git show`.
 - Check Git status before and after committing changes.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Live GPS tracking
 - Online ride booking
@@ -126,10 +126,10 @@ Use your actual branch name if it is not `main`.
 - User ratings and feedback
 - Notifications and booking history
 
-## 👨‍💻 Project Status
+## Project Status
 
 **Current stage:** Wireframe design and sprint planning.
 
-## 📄 License
+## License
 
 This project is intended for educational and learning purposes. A formal license can be added if the project is distributed publicly.
